@@ -1,0 +1,22 @@
+{
+    "name": "palaciodasferramentas/module-checkoutcustomfield",
+    "description": "Fields customization module in Magento checkout",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Israel Guido",
+            "email": "israelguido@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "PalacioDasFerramentas\\CheckoutCustomField\\": ""
+        }
+    }
+}
