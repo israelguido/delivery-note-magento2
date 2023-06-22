@@ -1,4 +1,4 @@
-# Mage2 Module PalacioDasFerramentas CheckoutCustomField
+# Magento 2 Module PalacioDasFerramentas CheckoutCustomField
 
     ``palaciodasferramentas/module-checkoutcustomfield``
 
