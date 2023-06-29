@@ -17,7 +17,7 @@ Fields customization module in Magento checkout
 
 ### Type 1: Zip file
 
- - Unzip the zip file in `app/code/PalacioDasFerramentas`
+ - Unzip the zip file in `app/code/PalacioDasFerramentas/CheckoutCustomField`
  - Enable the module by running `php bin/magento module:enable PalacioDasFerramentas_CheckoutCustomField`
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
